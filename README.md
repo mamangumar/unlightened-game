@@ -19,3 +19,5 @@ sound & musics source :
 2. https://youtu.be/dQpdEBl28UM (game start)
 3. https://youtu.be/h4oQ5CTu_cE (main menu)
 4. https://youtu.be/KkQI3ECwfG4 (candle shutted off)
+
+this is project for kp(konsep pemrogaman/programming concept) class assignment
