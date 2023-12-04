@@ -9,9 +9,11 @@ how to play :
 
 
 simple logic used for game-making
+
 using vector for candle class to implements increasing objects
 
 art created by : @fasellarachel(Instagram)
+
 sound & musics source :
 1. https://vt.tiktok.com/ZS8M7Cq6r/ (game over)
 2. https://youtu.be/dQpdEBl28UM (game start)
