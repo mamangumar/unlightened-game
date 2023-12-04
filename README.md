@@ -1,12 +1,11 @@
 # unlightened-game
-point and click endless run simple game
-SFML-C++ based game
+point and click endless run simple SFML-C++ based game
 
 simple logic used for game-making
 using vector for candle class to implements increasing objects
 
-art belongs to : @(Instagram)
-music are sourced from :
+art created by : @fasellarachel(Instagram)
+musics belong to :
 1.
 2.
 3.
